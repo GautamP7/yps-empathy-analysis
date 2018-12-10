@@ -3,7 +3,6 @@ from baseline import *
 from svm import *
 from mnb import *
 from mlp import *
-from knn import *
 from dt import *
 from rf import *
 from sklearn.externals import joblib
